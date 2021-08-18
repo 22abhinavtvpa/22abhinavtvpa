@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @22abhinavtvpa
+- 👋 Hi, I’m @AbhinavTv.cw
 - 👀 I’m interested in web devoloping
 - 🌱 I’m currently learning how to becom a M E R N stack devoloper
 - 💞️ I’m looking to collaborate on higher compenies like gooogle
